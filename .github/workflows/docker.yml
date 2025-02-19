@@ -42,5 +42,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            gacastroo/practica_7.1:latest
-            ghcr.io/gacastroo/practica_7.1:latest
+            gacastro/practica_7.1:latest
+            ghcr.io/gacastro/practica_7.1:latest
